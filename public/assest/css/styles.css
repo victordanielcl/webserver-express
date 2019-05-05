@@ -1,0 +1,8 @@
+footer {
+    background-color: cadetblue;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    padding: 1em;
+    text-align: center;
+}
